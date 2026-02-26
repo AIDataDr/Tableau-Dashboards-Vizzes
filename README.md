@@ -1,4 +1,6 @@
 <a id="top"></a>
+[![Home](https://img.shields.io/badge/Back%20to-Home-009911)](https://github.com/AIDataDr/#portfolio-table-of-contents)     [![Portfolio TOC](https://img.shields.io/badge/Back%20to-Portfolio%20TOC-009911)](https://github.com/AIDataDr#portfolio-table-of-contents)
+
 # Tableau Dashboards & Data Visualizations
 
 This page provides a table of contents and links to dashboards and data visualizations I created using Tableau. The links to each visualization in the table contents will take you to the corresponding read me page. Each read me page will have the direct link to Tableau project and picture of the visualization.
@@ -18,4 +20,4 @@ Here is the link to my Tableau public profile.
 
 [Return to Top](#top)
 
-[Return to Portfolio Table of Contents](https://github.com/AIDataDr/#portfolio-table-of-contents)
+[![Home](https://img.shields.io/badge/Back%20to-Home-009911)](https://github.com/AIDataDr/#portfolio-table-of-contents)     [![Portfolio TOC](https://img.shields.io/badge/Back%20to-Portfolio%20TOC-009911)](https://github.com/AIDataDr#portfolio-table-of-contents)
