@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Tableau Dashboards & Data Visualizations
 
 This page provides a table of contents and links to dashboards and data visualizations I created using Tableau. The links to each visualization in the table contents will take you to the corresponding read me page. Each read me page will have the direct link to Tableau project and picture of the visualization.
@@ -15,3 +16,6 @@ Here is the link to my Tableau public profile.
 - [Number of Lightning Strikes by Location](Number_of_Lightning_Strikes_by_Location/) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/NumberofLightningStrikesbyLocation/LightningStrikesbyLocation)
 - [Number of Lightning Strikes](Number_of_Lightning_Strikes) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/NumberofLightningStrikes_17581278524150/Sheet23)
 
+[Return to Top](#top)
+
+[Return to Portfolio Table of Contents](https://github.com/AIDataDr/#portfolio-table-of-contents)
