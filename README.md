@@ -8,6 +8,7 @@ This page provides a table of contents and links to dashboards and data visualiz
 Here is the link to my Tableau public profile.
 <https://public.tableau.com/app/profile/nicholas.gaul/vizzes>
 
+<a id="tableau-projects"></a>
 ## Tableau Projects: [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/vizzes)
 
 - [Automatidata Project for New York City Taxi & Limousine Commission (TLC)](Automatidata_Project_for_NYC_TLC/) [![Tableau Dashboard](https://img.shields.io/badge/View%20in-Tableau-1f77b4?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nicholas.gaul/viz/AutomatidataProjectforNewYorkCityTaxiLimousineCommissionTLC/AutomatidataProjectforTLC)
